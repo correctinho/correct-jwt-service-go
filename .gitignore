@@ -1,0 +1,8 @@
+.env
+build/
+logs/
+bin/
+kubectl.sha256
+jwt-service-go
+service
+.DS_Store
